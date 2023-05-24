@@ -24,7 +24,7 @@ Golang Gin boilerplate with MongoDB resource.
 │    ├── router.go
 │    └── server.go
 ├── utility
-│   └── errhandle.go
+│    └── errhandle.go
 ├── .env
 ├── go.mod
 ├── go.sum
